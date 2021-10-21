@@ -1,11 +1,12 @@
 ### FRONT-END WEB DEVELOPER
 
 ### Skills and Tools
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React - Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+[![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
+[![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
+[![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
+[![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
+[![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
+[![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 <br />
 
 ### Follow me
