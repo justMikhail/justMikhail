@@ -12,8 +12,7 @@ FRONT-END WEB DEVELOPER
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-1e272e?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=007acc)](#) 
 
-[![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) 
-[![Vue Badge](https://img.shields.io/badge/-vuex-4FC08D?style=for-the-badge&labelColor=black&logo=Vuex&logoColor=4FC08D)](#) 
+[![Vue Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D)](#) 
 [![Nuxt Badge](https://img.shields.io/badge/-Nuxt.js-222222?style=for-the-badge&labelColor=black&logo=Nuxt.js&logoColor=4FC08D)](#) 
 
 ### Follow me
